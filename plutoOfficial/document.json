@@ -1,0 +1,96 @@
+{
+   "_class":"document",
+   "do_objectID":"47F5DF1E-5DF5-4B64-A6F4-FAAC7247E1F2",
+   "assets":{
+      "_class":"assetCollection",
+      "colors":[
+         {
+            "_class":"color",
+            "alpha":1,
+            "blue":1,
+            "green":0.5882352941176473,
+            "red":0.3764705882352941
+         }
+      ],
+      "gradients":[
+
+      ],
+      "imageCollection":{
+         "_class":"imageCollection",
+         "images":{
+
+         }
+      },
+      "images":[
+
+      ]
+   },
+   "currentPageIndex":0,
+   "enableLayerInteraction":true,
+   "enableSliceInteraction":true,
+   "foreignSymbols":[
+
+   ],
+   "layerStyles":{
+      "_class":"sharedStyleContainer",
+      "objects":[
+         {
+            "_class":"sharedStyle",
+            "do_objectID":"0402A72C-1F65-4AB9-AA35-AB646A9BE05E",
+            "name":"Social Icon Shape",
+            "value":{
+               "_class":"style",
+               "blur":{
+                  "_class":"blur",
+                  "isEnabled":false,
+                  "center":"{0.5, 0.5}",
+                  "motionAngle":0,
+                  "radius":8.33333741764182,
+                  "type":0
+               },
+               "endDecorationType":0,
+               "fills":[
+                  {
+                     "_class":"fill",
+                     "isEnabled":true,
+                     "color":{
+                        "_class":"color",
+                        "alpha":1,
+                        "blue":0,
+                        "green":0,
+                        "red":0
+                     },
+                     "fillType":0,
+                     "noiseIndex":0,
+                     "noiseIntensity":0,
+                     "patternFillType":0,
+                     "patternTileScale":1
+                  }
+               ],
+               "miterLimit":10,
+               "sharedObjectID":"0402A72C-1F65-4AB9-AA35-AB646A9BE05E",
+               "startDecorationType":0
+            }
+         }
+      ]
+   },
+   "layerSymbols":{
+      "_class":"symbolContainer",
+      "objects":[
+
+      ]
+   },
+   "layerTextStyles":{
+      "_class":"sharedTextStyleContainer",
+      "objects":[
+
+      ]
+   },
+   "pages":[
+      {
+         "_class":"MSJSONFileReference",
+         "_ref_class":"MSImmutablePage",
+         "_ref":"pages\/D745E909-B760-478B-ACC5-A42AFA16E20D"
+      }
+   ]
+}
